@@ -22,10 +22,10 @@ Github的下载地址：
 ![这里写图片描述](http://img.blog.csdn.net/20180109215700192?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveDk3MDY5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 输入你从上面那个网站获得的服务器地址、服务器端口和服务器密码等。然后，在电脑的右下角小菜单部分找到软件的标志，鼠标右击可以看到：
-![这里写图片描述](http://img.blog.csdn.net/20180109215853810?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveDk3MDY5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 
 单点击启动系统代理，如上图。最后打开Google搜索：
-![这里写图片描述](http://img.blog.csdn.net/20180109220213019?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveDk3MDY5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 
 Bingo！翻墙成功，IE和Chrome浏览器不需要继续设置插件，Firefox需要的插件在百度上搜索安装即可。
 
